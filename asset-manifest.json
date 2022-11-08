@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tourneyballs/static/css/main.4760d69c.css",
-    "main.js": "/tourneyballs/static/js/main.049b3356.js",
+    "main.js": "/tourneyballs/static/js/main.1203e04b.js",
     "static/js/787.1666cd51.chunk.js": "/tourneyballs/static/js/787.1666cd51.chunk.js",
     "index.html": "/tourneyballs/index.html",
     "main.4760d69c.css.map": "/tourneyballs/static/css/main.4760d69c.css.map",
-    "main.049b3356.js.map": "/tourneyballs/static/js/main.049b3356.js.map",
+    "main.1203e04b.js.map": "/tourneyballs/static/js/main.1203e04b.js.map",
     "787.1666cd51.chunk.js.map": "/tourneyballs/static/js/787.1666cd51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4760d69c.css",
-    "static/js/main.049b3356.js"
+    "static/js/main.1203e04b.js"
   ]
 }
